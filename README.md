@@ -17,8 +17,8 @@ But knowing the stuff will help you become better! :muscle:*
 ----
 
 ### Introduction
-- [ ] :movie_camera: [Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA)
-- [ ] :movie_camera: [40 Key Computer Science Concepts Explained In Layman’s Terms](http://carlcheo.com/compsci)
+- [X] :movie_camera: [Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA)
+- [X] :movie_camera: [40 Key Computer Science Concepts Explained In Layman’s Terms](http://carlcheo.com/compsci)
 
 ### Falsehoods
 - [ ] [Awesome Falsehoods](https://github.com/kdeldycke/awesome-falsehood)  
